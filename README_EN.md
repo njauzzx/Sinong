@@ -1,4 +1,4 @@
-# SiNong Large Language Model
+# Sinong Large Language Model
 <a href="readme.md">中文</a> ｜ English
 
 **A Vertical Large Model for the General Agricultural Domain**
