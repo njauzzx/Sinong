@@ -7,7 +7,7 @@
 
 ## Data Collection and Model Training
 
-Relying on the disciplinary features of Nanjing Agricultural University, we have collected large-scale domain data oriented towards specific sub-disciplines such as **Animal Science**, **Agricultural Economic Management**, **Agricultural Resources and Environment**, **Horticulture**, **Smart Agriculture**, **Plant Protection**, and **Crop Breeding**, with a total volume exceeding 4 billion tokens.
+Relying on the disciplinary features of Nanjing Agricultural University, we have collected large-scale domain data oriented towards specific sub-disciplines such as **Animal Science**, **Animal Medicine**, **Agricultural Economic Management**, **Agricultural Resources and Environment**, **Horticulture**, **Smart Agriculture**, **Plant Protection**, and **Crop Breeding**, with a total volume exceeding 4 billion tokens.
 
 | Data Type | Volume |
 | :---- | :---- |
@@ -47,3 +47,8 @@ Sinong-1.0 has been open-sourced on the ModelScope community. Currently, we have
 ### Data Acquisition and Usage
 
 If you need to use the foundational or process data of this study, please contact us via email (llm4cca@njau.edu.cn). We look forward to exploring the path of smart agriculture under large language models with you.
+
+## Development Team
+Sinongwas jointly developed by a cross-university team from Nanjing Agricultural University and Nanjing University of Science and Technology.
+* Nanjing Agricultural University: Wang Dongbo, Zhao Zhixiao, Liu Ruilin, Yang Fan, Pang Weiqi, Yang Junyi, Li Xuan, Zhou Qian, Wei Qizhi, Wu Ruifeng, Lin Sen, Zhang Hongmin, Pan Mengfei, Lu Qi
+* Nanjing University of Science and Technology Team: Shen Si, Zhu Danhao
