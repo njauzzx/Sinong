@@ -50,5 +50,5 @@ If you need to use the foundational or process data of this study, please contac
 
 ## Development Team
 Sinongwas jointly developed by a cross-university team from Nanjing Agricultural University and Nanjing University of Science and Technology.
-* Nanjing Agricultural University: Wang Dongbo, Zhao Zhixiao, Liu Ruilin, Yang Fan, Pang Weiqi, Yang Junyi, Li Xuan, Zhou Qian, Wei Qizhi, Wu Ruifeng, Lin Sen, Zhang Hongmin, Pan Mengfei, Lu Qi
-* Nanjing University of Science and Technology Team: Shen Si, Zhu Danhao
+* Nanjing Agricultural University: **Wang Dongbo**, Zhao Zhixiao, Liu Ruilin, Yang Fan, Pang Weiqi, Yang Junyi, Li Xuan, Zhou Qian, Wei Qizhi, Wu Ruifeng, Lin Sen, Zhang Hongmin, Pan Mengfei, Lu Qi
+* Nanjing University of Science and Technology Team: **Shen Si**, **Zhu Danhao**
