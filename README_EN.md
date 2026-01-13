@@ -37,7 +37,7 @@ Currently, Retrieval-Augmented Generation (RAG) has become an indispensable part
 
 ### Model Acquisition and Usage
 
-Sinong-1.0 has been open-sourced on the ModelScope community. Currently, we have open-sourced models with two parameter scales: 8B and 32B. Anyone can directly download and deploy these models.
+Sinong-1.0 has been open-sourced on the ModelScope. Currently, we have open-sourced models with two parameter scales: 8B and 32B. Anyone can directly download and deploy these models.
 |Model Name|Open Source Address|  
 |:---:|:---:|
 |Sinong1.0-8B|[ModelScope](https://modelscope.cn/models/NAULLM/Sinong1.0-8B)|
