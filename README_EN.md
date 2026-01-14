@@ -52,3 +52,8 @@ If you need to use the foundational or process data of this study, please contac
 Sinongwas jointly developed by a cross-university team from Nanjing Agricultural University and Nanjing University of Science and Technology.
 * Nanjing Agricultural University: **Wang Dongbo**, Zhao Zhixiao, Liu Ruilin, Yang Fan, Qi Yue, Pang Weiqi, Yang Junyi, Li Xuan, Zhou Qian, Wei Qizhi, Wu Ruifeng, Lin Sen, Zhang Hongmin, Pan Mengfei, Lu Qi
 * Nanjing University of Science and Technology Team: **Shen Si**, **Zhu Danhao**
+
+## Special Disclaimer
+SiNong has been trained on extensive datasets from the agricultural domain. While we have employed various methods to clean and filter the training data, the inherent architecture of large language models makes it difficult to completely eliminate inaccuracies or "hallucinations" in generated content. Therefore, when using the SiNong model, please exercise careful judgment regarding its outputs, and avoid blind trust in AI-generated information to prevent any potential losses.
+
+When using the SiNong Large Language Model, you must strictly comply with all applicable laws and regulations of the People's Republic of China. Under no circumstances shall we be liable for any damages (regardless of cause or form) arising from your use of the model or its outputs, including but not limited to direct, indirect, special, or incidental damages.
