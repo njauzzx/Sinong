@@ -1,5 +1,5 @@
 # Sinong Large Language Model
-<a href="readme.md">中文</a> ｜ English
+<a href="README.md">中文</a> ｜ English
 
 **A Vertical Large Model for the General Agricultural Domain**
 
